@@ -1,0 +1,2 @@
+# MaasBot
+Discord bot
