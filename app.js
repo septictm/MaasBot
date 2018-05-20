@@ -271,4 +271,4 @@ client.on('message', message => {
 
 
 // Bot Token
-clclient.login(process.env.'NDQzMDUzMjA2MDcxOTM0OTk3.DdHw-g.wy3HX3PZVmvrTcnccTRV_5gzOCY'); //NDQzMDUzMjA2MDcxOTM0OTk3.DdHw-g.wy3HX3PZVmvrTcnccTRV_5gzOCY
+client.login(process.env.'NDQzMDUzMjA2MDcxOTM0OTk3.DdHw-g.wy3HX3PZVmvrTcnccTRV_5gzOCY'); 
